@@ -1,0 +1,8 @@
+pandas
+plotly
+wordcloud
+matplotlib
+textblob
+spacy
+scikit-learn
+nbformat
